@@ -1,0 +1,52 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration:none;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/*#region header*/
+
+.header {}
+
+.nav-header {}
+
+.logo-header {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 93%;
+    color: #173a56;}
+
+.nav-list-item-one {
+    font-weight: 600;
+    font-size: 16px;
+    }
+
+.nav-list {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.nav-list-item {}
+
+.nav-item-link {}
+
+.list-but {}
+
+.list-but {
+    font-weight: 600;
+    font-size: 16px;
+    color: #173a56;
+}
+
+.list-but-two {
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+
+/*#end region header*/
